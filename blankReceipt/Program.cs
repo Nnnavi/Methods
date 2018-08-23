@@ -4,36 +4,31 @@ namespace blankReceipt
 {
     class Program
     {
-        
-        static void Main(string[] args)
-      {
-        void PrintReceiptHeader()
+        static void PrintReceiptHeader()
         {
                   Console.WriteLine("CASH RECEIPT");
                   Console.WriteLine("------------------------------");
         }
-        void PrintReceiptBody()
+        static void PrintReceiptBody()
         {
-            Console.WriteLine("Charged to___________________");
-            Console.WriteLine("Received by__________________");
-            Console.WriteLine("------------------------------------");
+            Console.WriteLine("Charged to____________________");
+            Console.WriteLine("Received by___________________");
+            Console.WriteLine("------------------------------");
         }
-        void PrintReceiptFooter()
+        static void PrintReceiptFooter()
         {
             Console.WriteLine("\u00A9 SoftUni");
         }
-        void PrintReceipt()
+        private static void PrintReceipt()
         {
         PrintReceiptHeader();
         PrintReceiptBody();
         PrintReceiptFooter();
         
         }
-            
-            
+        static void Main(string[] args)
+        {
         PrintReceipt();
-            {
-             }
-       }
+        }
     }
 }

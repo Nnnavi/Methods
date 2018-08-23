@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blankReceipt", "blankReceipt\blankReceipt.csproj", "{CA5FB61E-4379-46FC-8340-9226C6874955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blankReceipt", "blankReceipt\blankReceipt.csproj", "{CA5FB61E-4379-46FC-8340-9226C6874955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-SignOfIntegerNumber", "2-SignOfIntegerNumber\2-SignOfIntegerNumber.csproj", "{FEDCA129-8FB2-432A-AEA4-F6EE8C0F5CF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CA5FB61E-4379-46FC-8340-9226C6874955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA5FB61E-4379-46FC-8340-9226C6874955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA5FB61E-4379-46FC-8340-9226C6874955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDCA129-8FB2-432A-AEA4-F6EE8C0F5CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDCA129-8FB2-432A-AEA4-F6EE8C0F5CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDCA129-8FB2-432A-AEA4-F6EE8C0F5CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDCA129-8FB2-432A-AEA4-F6EE8C0F5CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
