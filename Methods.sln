@@ -5,21 +5,23 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blankReceipt", "blankReceipt\blankReceipt.csproj", "{CA5FB61E-4379-46FC-8340-9226C6874955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-SignOfIntegerNumber", "2-SignOfIntegerNumber\2-SignOfIntegerNumber.csproj", "{FEDCA129-8FB2-432A-AEA4-F6EE8C0F5CF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-SignOfIntegerNumber", "2-SignOfIntegerNumber\2-SignOfIntegerNumber.csproj", "{FEDCA129-8FB2-432A-AEA4-F6EE8C0F5CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-PrintingTriangle", "3-PrintingTriangle\3-PrintingTriangle.csproj", "{738D2DC3-BCFD-4BB2-B4C9-E3BDF8695372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-PrintingTriangle", "3-PrintingTriangle\3-PrintingTriangle.csproj", "{738D2DC3-BCFD-4BB2-B4C9-E3BDF8695372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-DrawAFilledSquare", "4-DrawAFilledSquare\4-DrawAFilledSquare.csproj", "{99C62D77-4D4E-400D-95D1-9EC6BAAD40FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-DrawAFilledSquare", "4-DrawAFilledSquare\4-DrawAFilledSquare.csproj", "{99C62D77-4D4E-400D-95D1-9EC6BAAD40FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-TemperatureConversion", "5-TemperatureConversion\5-TemperatureConversion.csproj", "{E3E6ADBD-B336-4DBE-8F88-0E175F7DB1DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-TemperatureConversion", "5-TemperatureConversion\5-TemperatureConversion.csproj", "{E3E6ADBD-B336-4DBE-8F88-0E175F7DB1DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-CalculateTriangleArea", "6-CalculateTriangleArea\6-CalculateTriangleArea.csproj", "{029FD920-4123-42DD-8999-6F974F39EEC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-CalculateTriangleArea", "6-CalculateTriangleArea\6-CalculateTriangleArea.csproj", "{029FD920-4123-42DD-8999-6F974F39EEC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-MathPower", "7-MathPower\7-MathPower.csproj", "{C3BA1B49-592A-4E56-BC74-2F2DDE4AE270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-MathPower", "7-MathPower\7-MathPower.csproj", "{C3BA1B49-592A-4E56-BC74-2F2DDE4AE270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-GreaterOfTwoValues", "8-GreaterOfTwoValues\8-GreaterOfTwoValues.csproj", "{D3DEA76D-C46F-4809-B452-0455FDFC70AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-GreaterOfTwoValues", "8-GreaterOfTwoValues\8-GreaterOfTwoValues.csproj", "{D3DEA76D-C46F-4809-B452-0455FDFC70AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-MultiplyEvensByOdds", "9-MultiplyEvensByOdds\9-MultiplyEvensByOdds.csproj", "{230FD0B1-7A51-4A21-A08B-E3345ED6C23D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-MultiplyEvensByOdds", "9-MultiplyEvensByOdds\9-MultiplyEvensByOdds.csproj", "{230FD0B1-7A51-4A21-A08B-E3345ED6C23D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-HolidaysBetweenTwoDays", "..\..\..\Desktop\04. Methods-Debugging-and-Troubleshooting-Code-Lab-Broken-Solutions\10-HolidaysBetweenTwoDays\10-HolidaysBetweenTwoDays.csproj", "{E1A0F0E5-BE82-4E9D-8F3F-91545B4A8CEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{230FD0B1-7A51-4A21-A08B-E3345ED6C23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{230FD0B1-7A51-4A21-A08B-E3345ED6C23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{230FD0B1-7A51-4A21-A08B-E3345ED6C23D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A0F0E5-BE82-4E9D-8F3F-91545B4A8CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A0F0E5-BE82-4E9D-8F3F-91545B4A8CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A0F0E5-BE82-4E9D-8F3F-91545B4A8CEB}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A0F0E5-BE82-4E9D-8F3F-91545B4A8CEB}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
