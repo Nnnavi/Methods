@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Exercises-Fibbonacci", "5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Exercises-PrimeChecker", "6-Exercises-PrimeChecker\6-Exercises-PrimeChecker.csproj", "{AAC462DB-D8B1-4BBA-8626-DFBA4A2470BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Exercises-PrimesInGivenRange", "7-Exercises-PrimesInGivenRange\7-Exercises-PrimesInGivenRange.csproj", "{F35F82E5-D6B5-4F41-A437-04980624DE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Exercises-CenterPoint", "8-Exercises-CenterPoint\8-Exercises-CenterPoint.csproj", "{2EC07751-F3CD-4538-A6CA-FC2E05BD4328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{AAC462DB-D8B1-4BBA-8626-DFBA4A2470BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAC462DB-D8B1-4BBA-8626-DFBA4A2470BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAC462DB-D8B1-4BBA-8626-DFBA4A2470BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35F82E5-D6B5-4F41-A437-04980624DE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35F82E5-D6B5-4F41-A437-04980624DE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35F82E5-D6B5-4F41-A437-04980624DE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35F82E5-D6B5-4F41-A437-04980624DE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC07751-F3CD-4538-A6CA-FC2E05BD4328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC07751-F3CD-4538-A6CA-FC2E05BD4328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC07751-F3CD-4538-A6CA-FC2E05BD4328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC07751-F3CD-4538-A6CA-FC2E05BD4328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
